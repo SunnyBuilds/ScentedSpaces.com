@@ -1,0 +1,52 @@
+{
+  "name": "Theme for camera",
+  "niche": "camera",
+  "colors": {
+    "primary": "oklch(65% 0.15 240)",
+    "primary-foreground": "oklch(98% 0.02 0)",
+    "secondary": "oklch(80% 0.1 220)",
+    "secondary-foreground": "oklch(15% 0.1 260)",
+    "accent": "oklch(70% 0.2 80)",
+    "accent-foreground": "oklch(98% 0.02 0)",
+    "background": "oklch(98% 0.02 0)",
+    "foreground": "oklch(15% 0.1 260)",
+    "muted": "oklch(90% 0.05 240)",
+    "muted-foreground": "oklch(40% 0.08 260)",
+    "border": "oklch(85% 0.03 240)",
+    "ring": "oklch(65% 0.15 240)",
+    "card": "oklch(95% 0.02 0)",
+    "card-foreground": "oklch(15% 0.1 260)",
+    "popover": "oklch(98% 0.02 0)",
+    "popover-foreground": "oklch(15% 0.1 260)",
+    "destructive": "oklch(60% 0.2 20)",
+    "destructive-foreground": "oklch(98% 0.02 0)"
+  },
+  "colors_dark": {
+    "primary": "oklch(50% 0.2 240)",
+    "primary-foreground": "oklch(95% 0.02 0)",
+    "secondary": "oklch(35% 0.15 220)",
+    "secondary-foreground": "oklch(95% 0.02 0)",
+    "accent": "oklch(55% 0.25 80)",
+    "accent-foreground": "oklch(95% 0.02 0)",
+    "background": "oklch(10% 0.05 260)",
+    "foreground": "oklch(95% 0.02 0)",
+    "muted": "oklch(20% 0.08 240)",
+    "muted-foreground": "oklch(60% 0.05 0)",
+    "border": "oklch(25% 0.06 240)",
+    "ring": "oklch(50% 0.2 240)",
+    "card": "oklch(15% 0.05 260)",
+    "card-foreground": "oklch(95% 0.02 0)",
+    "popover": "oklch(10% 0.05 260)",
+    "popover-foreground": "oklch(95% 0.02 0)",
+    "destructive": "oklch(45% 0.25 20)",
+    "destructive-foreground": "oklch(95% 0.02 0)"
+  },
+  "fonts": {
+    "heading": "Poppins",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "reasoning": "The blue theme is achieved through the primary and secondary colors, which are shades of blue. The accent color is a vibrant green to draw attention to key elements. The light background provides a clean, modern feel. Dark mode uses darker shades of the blues, a lighter accent, and near-white text for readability. Poppins is used for headings to provide a modern, geometric feel, while Inter is used for body text for readability. JetBrains Mono is the standard monospace font.",
+  "generated_at": "2025-12-16T13:51:10.909896Z",
+  "generated_by": "beginos"
+}
